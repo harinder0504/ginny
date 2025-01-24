@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-good evening.......
-beautiful
-=======
-
+ develop
+niceeee
+jdk
+HEAD
+good evening.......>>>>>>> master
 how are you?????/good evening.......
->>>>>>> develop
-wooooowwwwwwwwwwwwww!!!!!!!!!!!!!!!
+
+wooooowwwwwww
